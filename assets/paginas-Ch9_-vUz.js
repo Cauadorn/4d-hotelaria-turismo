@@ -1,0 +1,1 @@
+var e=document.querySelector(`[data-year]`);e&&(e.textContent=new Date().getFullYear());

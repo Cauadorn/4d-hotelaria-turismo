@@ -1,0 +1,1 @@
+var e={whatsapp:`5500000000000`,whatsappMessage:`Olá! Vim pelo site da 4D Hotelaria e Turismo e quero aumentar as reservas diretas do meu hotel.`,formEndpoint:``,thankYouPage:`obrigado.html`};function t(){return`https://wa.me/`+e.whatsapp+`?text=`+encodeURIComponent(e.whatsappMessage)}export{t as n,e as t};

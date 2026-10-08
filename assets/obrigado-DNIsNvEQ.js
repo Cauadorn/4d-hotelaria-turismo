@@ -1,0 +1,1 @@
+import"./style-C86-JS5A.js";import{n as e}from"./config-C6eCJlw_.js";document.querySelectorAll(`a[href^="https://wa.me/"]`).forEach(function(t){t.href=e()});var t=document.querySelector(`[data-date]`);t&&(t.textContent=new Date().toLocaleDateString(`pt-BR`,{day:`2-digit`,month:`short`}).replace(`.`,``));
